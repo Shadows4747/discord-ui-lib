@@ -113,6 +113,6 @@ bnds:Bind(
     end
 )
 
-serv:Channel("by dawid#7205")
+serv:Channel("by ")
 
 win:Server("Main", "http://www.roblox.com/asset/?id=6031075938")
